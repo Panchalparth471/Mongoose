@@ -1,5 +1,5 @@
 # Mongoose
-It is a small example of creation of a server and connecting it with our mongodb using mongoose to verify the post requests we can use postman which is a API Testing tool 
+It is a small example of creation of a server and connecting it with our mongodb using mongoose, to verify the post requests we can use postman which is a API Testing tool 
 ## Usage
 1.
    Create a folder and open it in vs code and open the terminal
